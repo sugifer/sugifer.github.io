@@ -1,0 +1,57 @@
+h1{color: #559c13;
+font-family: Verdana, sans-serif
+}
+
+header {
+background-color: #efefef;
+
+}
+
+body {
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-right:0px;
+  margin-left:0px;
+  
+}
+.manko{
+ /* background-color: rgb(110, 210, 250); */
+ margin-left: auto;
+ margin-right: auto;
+ width: 600px;
+ display: flex;
+}
+.tinko{
+  /* background-color: burlywood; */
+}
+
+.tinko img{
+  border-radius:50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: cornsilk;
+}
+
+.tinpo{
+  /* background-color: chocolate; */
+  margin-left: 32px;
+  margin-right: 32px;
+}
+
+.tinpo h1{
+  
+  font-weight: normal;
+  font-size: 24px;
+  margin: 0px;
+}
+
+.a{
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.b{
+   width: 300px;
+   margin-left: auto;
+   margin-right: auto;
+}
